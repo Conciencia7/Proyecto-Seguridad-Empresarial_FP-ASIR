@@ -22,7 +22,7 @@ Implantar un sistema de seguridad que permita proteger, controlar y monitorizar 
 ## Tecnologías
 
 ```
-Ubuntu Server / Windows Server
+Windows Server
 Active Directory
 SSH
 Firewall (UFW o pfSense)

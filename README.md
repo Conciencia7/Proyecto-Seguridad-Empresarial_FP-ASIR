@@ -16,7 +16,7 @@ Implantar un sistema de seguridad que permita proteger, controlar y monitorizar 
 - [ ] Configuración de copias de seguridad automáticas.
 - [ ] Monitorización de servidores y servicios.
 
-##Funcionalidades secundarias
+## Funcionalidades secundarias
 - [ ] Implementación de VPN corporativa.
 - [ ] Segmentación de red mediante VLAN.
 ## Tecnologías
